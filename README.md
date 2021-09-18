@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Connor</h1>
-<h3 align="center">A MBBS Final Year student Who loves to explore new stuff</h3>
+<h3 align="center">A Doctor Who loves Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanconnor123&label=Profile%20views&color=0e75b6&style=flat" alt="roshanconnor123" /> </p>
-
-- 🔭 I’m currently working on **to pass my Final exams**
 
 - 🌱 I’m currently learning **Python as a hobby**
 
